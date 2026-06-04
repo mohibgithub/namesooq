@@ -333,7 +333,7 @@ select:-moz-autofill {
 
 .main-cntn {
     /* margin-top: 5.5rem; */
-    margin-top: 4.3rem;
+    margin-top: 2.8rem;
 }
 
 .faq-section {
@@ -443,9 +443,9 @@ select:-moz-autofill {
 }
 
 .main-cntn h2 {
-    font-size: 1.8rem;
-    margin-top: 81px;
-    margin-bottom: 66px;
+    font-size: 1.7rem;
+    margin-top: 60px;
+    margin-bottom: 50px;
 }
 
 .main-cntn .video-subheadline h2 {
@@ -772,7 +772,7 @@ margin-top: 140px;
 margin-top: 0px;
 }
 .domain-icon-box p{
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     margin-top: 28px;
     margin-bottom: 0;
     color: #393e46;
